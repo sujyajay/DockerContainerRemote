@@ -8,6 +8,7 @@ public class TestCases {
 	public static void mainTest() {
 		
 		System.out.println("Test Only");
+		System.out.println("Updated in Server");
 		
 	}
 	
