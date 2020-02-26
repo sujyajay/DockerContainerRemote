@@ -10,6 +10,8 @@ public class TestCases {
 		System.out.println("Test Only");
 		System.out.println("Updated in Server");
 		System.out.println("Updated in LOCAL"); 
+		System.out.println("Updated in Server V1.0");
+		
 		
 	}
 	
