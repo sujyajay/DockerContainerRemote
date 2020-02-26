@@ -12,6 +12,9 @@ public class TestCases {
 		System.out.println("Updated in LOCAL");
 		
 		System.out.println("Updated in LOCAL V1.0");
+		System.out.println("Updated in LOCAL"); 
+		System.out.println("Updated in Server V1.0");
+		
 		
 	}
 	
